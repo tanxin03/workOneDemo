@@ -1,5 +1,5 @@
 <?php
-  $name = "zhangsan";
+  $name = "lisi";
   $year = 18;
   $sex = "男";
   echo "hello ". $name;
