@@ -1,6 +1,6 @@
 <?php
   $name = "lisi";
-  $year = 22;
+  $year = 23;
   $sex = "男";
   echo "hello ". $name;
   echo "year=". $year;
