@@ -6,4 +6,6 @@
   echo "year=". $year;
   echo "性别=". $sex;
   echo "hello world";
+  echo "1234";
+  echo "33333";
 ?>
