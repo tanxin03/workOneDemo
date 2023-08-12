@@ -5,4 +5,5 @@
   echo "hello ". $name;
   echo "year=". $year;
   echo "性别=". $sex;
+  echo "hello world";
 ?>
